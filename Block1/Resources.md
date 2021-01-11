@@ -20,6 +20,10 @@
 
 - https://benlauwens.github.io/ThinkJulia.jl/latest/book.html
 
+### Courses
+
+- https://mitmath.github.io/18337/
+
 ### Good coding practices
 
 - https://github.com/invenia/BlueStyle
@@ -36,3 +40,4 @@
 ### Multiple dispatch
 
 - https://www.youtube.com/watch?v=nwdGsz4rc3Q
+- https://www.stochasticlifestyle.com/type-dispatch-design-post-object-oriented-programming-julia/
