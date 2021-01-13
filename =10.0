@@ -1,0 +1,31 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/guillaume/miniconda3
+
+  added / updated specs:
+    - nodejs
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    nodejs-10.13.0             |       he6710b0_0        13.0 MB
+    ------------------------------------------------------------
+                                           Total:        13.0 MB
+
+The following packages will be UPDATED:
+
+  ca-certificates    conda-forge::ca-certificates-2020.12.~ --> pkgs/main::ca-certificates-2020.12.8-h06a4308_0
+  nodejs                       conda-forge::nodejs-6.13.1-0 --> pkgs/main::nodejs-10.13.0-he6710b0_0
+
+The following packages will be SUPERSEDED by a higher-priority channel:
+
+  certifi            conda-forge::certifi-2020.12.5-py37h8~ --> pkgs/main::certifi-2020.12.5-py37h06a4308_0
+  conda              conda-forge::conda-4.9.2-py37h89c1867~ --> pkgs/main::conda-4.9.2-py37h06a4308_0
+
+
+Proceed ([y]/n)? 
