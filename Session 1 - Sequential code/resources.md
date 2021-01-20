@@ -1,4 +1,8 @@
-# JuliaHPC @ Cermics: block 1
+# JuliaHPC @ Cermics
+
+_________________________________
+
+# 1. Sequential code
 
 ## Getting started
 
