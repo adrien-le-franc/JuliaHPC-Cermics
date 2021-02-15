@@ -2,46 +2,18 @@
 
 _________________________________
 
-# 1. Sequential code
+# 2. Threadings
 
-## Getting started
+## Julia documentation: 
+- https://docs.julialang.org/en/v1/base/multi-threading/
 
-### Julia tutorials
+## Parallelism definition: Parallel Programming course, EPFL
+- https://www.youtube.com/watch?v=RNVIcm8-6RE&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl
+- https://www.youtube.com/watch?v=ZWJC4pgicK0&list=PLOhKADai-veUWo2cEAJ4JfC9Ssaa9Isbl&index=2
+    
+## On race conditions  
+- https://en.wikipedia.org/wiki/Race_condition
 
-- https://juliadocs.github.io/Julia-Cheat-Sheet/
-- https://github.com/gdalle/IntroJulia
-- https://github.com/mfherbst/course_julia_day
-
-### Getting help
-
-- https://julialang.org/slack/
-- https://discourse.julialang.org/
-- repo issues
-
-### Profiling
-
-### Books
-
-- https://benlauwens.github.io/ThinkJulia.jl/latest/book.html
-
-### Courses
-
-- https://mitmath.github.io/18337/
-
-### Good coding practices
-
-- https://github.com/invenia/BlueStyle
-
-## Optimizing serial code
-
-### Performance tips
-
-- https://docs.julialang.org/en/v1/manual/performance-tips/
-- https://medium.com/towards-artificial-intelligence/a-beginners-guide-to-optimizing-julia-code-148e3f2d69bd
-- https://biojulia.net/post/hardware/
-- http://www.stochasticlifestyle.com/7-julia-gotchas-handle/
-
-### Multiple dispatch
-
-- https://www.youtube.com/watch?v=nwdGsz4rc3Q
-- https://www.stochasticlifestyle.com/type-dispatch-design-post-object-oriented-programming-julia/
+## On threads composition
+- https://julialang.org/blog/2019/07/multithreading/
+- https://www.youtube.com/watch?v=YdiZa0Y3F3c (presentation at cambridge julia meetup (may 2018))
