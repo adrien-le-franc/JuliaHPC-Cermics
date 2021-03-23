@@ -20,7 +20,7 @@ include("integrate.jl")
 # First, we define the variables common to all processes
 a = 0.0                     # left endpoint
 b = 1.0                     # right endpoint
-n = 2048                    # number of trapezoids
+n = 2048*100000                   # number of trapezoids
 h = (b-a)/n                 # integration step
 dst = 0                     # destination process
 
